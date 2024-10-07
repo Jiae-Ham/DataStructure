@@ -1,0 +1,13 @@
+Hello : 2
+Nice : 2
+to : 2
+meet : 2
+you : 2
+단어와 : 1
+단어사이는 : 1
+공백문자로 : 1
+구분한다 : 1
+My : 1
+name : 1
+is : 1
+Sindy : 1
