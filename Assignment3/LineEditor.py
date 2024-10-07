@@ -4,7 +4,7 @@ from ArrayList import ArrayList
 list = ArrayList(1000)
 while True:
     command = input("[메뉴선택] i-입력, d-삭제, r-변경, "
-                    "p-출력, l-파일읽기, s-저장, q-종료=> ")
+                    "p-출력, l-파일읽기, s-저장, m-사전만들기, q-종료=> ")
 
     if command == 'i' :
         pos = int(input(" 입력행 번호: "))
